@@ -15,6 +15,9 @@ To get started with the Odin-Recipes project, follow these steps:
 2. Open the project directory: `cd odin-recipes`
 3. Open the index.html file in your preferred web browser.
 
+OR
+1. Copy and paste this on your browser URL: https://abaiao-r.github.io/odin-recipes/
+
 ## Contributing
 As this project is intended to showcase my HTML skills, I am currently not accepting direct contributions. However, I am open to feedback and suggestions that could help improve the project. If you have any ideas or spot any issues, feel free to raise them as GitHub issues.
 
